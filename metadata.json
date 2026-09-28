@@ -1,0 +1,6 @@
+{
+  "name": "Kurye Navigasyon",
+  "description": "Kuryeler için bina dış kapı numaralı ve sesli dönüş yönlendirmeli gerçek harita navigasyon uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
